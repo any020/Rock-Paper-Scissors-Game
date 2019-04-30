@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors-Game
-JavaScript, HTML, CSS, React
+JavaScript, HTML, CSS
 
 Scoreboard: user vs computer
 color on mouse:hover userchoice
